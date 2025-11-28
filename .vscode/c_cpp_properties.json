@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/external",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/**",
+
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX26.1.sdk/usr/include/c++"
+            ],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}
