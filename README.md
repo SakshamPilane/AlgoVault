@@ -25,7 +25,7 @@ It supports:
 ---
 
 ## 📂 Project Structure
-
+```
 AlgoVault/
 │── src/
 │ ├── kvstore.cpp
@@ -43,7 +43,7 @@ AlgoVault/
 │── data/ # WAL logs stored here
 │── main.cpp
 │── CMakeLists.txt
-
+```
 
 
 ---
