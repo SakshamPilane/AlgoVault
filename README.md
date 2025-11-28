@@ -26,23 +26,23 @@ It supports:
 
 ## 📂 Project Structure
 ```
-AlgoVault/
-│── src/
-│ ├── kvstore.cpp
-│ ├── lru_cache.cpp
-│ ├── persistence.cpp
-│ ├── server.cpp
-│── include/
-│ ├── kvstore.h
-│ ├── lru_cache.h
-│ ├── persistence.h
-│ ├── server.h
-│── external/
-│ ├── json.hpp
-│ ├── httplib.h
-│── data/ # WAL logs stored here
-│── main.cpp
-│── CMakeLists.txt
+📦 AlgoVault
+ ┣ 📂 src
+ ┃ ┣ 📄 kvstore.cpp
+ ┃ ┣ 📄 lru_cache.cpp
+ ┃ ┣ 📄 persistence.cpp
+ ┃ ┗ 📄 server.cpp
+ ┣ 📂 include
+ ┃ ┣ 📄 kvstore.h
+ ┃ ┣ 📄 lru_cache.h
+ ┃ ┣ 📄 persistence.h
+ ┃ ┗ 📄 server.h
+ ┣ 📂 external
+ ┃ ┣ 📄 json.hpp
+ ┃ ┗ 📄 httplib.h
+ ┣ 📂 data
+ ┣ 📄 main.cpp
+ ┗ 📄 CMakeLists.txt
 ```
 
 
