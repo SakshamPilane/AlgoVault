@@ -7,7 +7,7 @@
 ![ttl](https://img.shields.io/badge/TTL-supported-yellow)
 ![WAL](https://img.shields.io/badge/WAL-supported-success)
 ![platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SakshamPilane/AlgoVault/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SakshamPilane/AlgoVault/blob/main/LICENSE)
 ![contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 AlgoVault is a lightweight, high-performance **in-memory key–value store** written in modern C++17.  
